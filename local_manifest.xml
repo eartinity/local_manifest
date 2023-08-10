@@ -23,5 +23,9 @@
         <project path="kernel/realme/r5x" name="kernel_realme_r5x" remote="Amritorock" revision="OSS" clone-depth="1" />
         <project path="prebuilts/clang/host/linux-x86/clang-r416183b1" name="android_prebuilts_clang_host_linux-x86_clang-r416183b1" remote="arrow" revision="arrow-11.0" />
 
+<!-- Replacement -->
+
+        <remove-project name="bionic" />
+        <project path="bionic" name="bionic" remote="eartinity" revision="thirteen" clone-depth="1" />
 
 </manifest>
