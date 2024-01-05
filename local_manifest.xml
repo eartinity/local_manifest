@@ -18,9 +18,9 @@
     
 <!-- device trees -->
 
-        <project path="device/realme/r5x" name="device_realme_r5x" remote="eartinity" revision="pe" />
+        <project path="device/realme/r5x" name="device_realme_r5x" remote="eartinity" revision="derp" />
         <project path="vendor/realme/r5x" name="vendor_realme_r5x" remote="eartinity" revision="thirteen" />
-        <project path="kernel/realme/r5x" name="biofrost-kernel-realme-trinket" remote="mcdofrenchfreis" revision="inline/dynamic" clone-depth="1" />
+        <project path="kernel/realme/r5x" name="biofrost-kernel-realme-trinket" remote="mcdofrenchfreis" revision="labs-dynamic" clone-depth="1" />
         <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
 
 <!-- additional apps -->
