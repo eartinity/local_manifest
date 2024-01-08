@@ -24,7 +24,7 @@
         <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
 
 <!-- additional apps -->
-        <project path="platform/packages/apps/Music" name="ViMusic" remote="eartinity" revision="master" />
-        <project path="platform/packages/apps/Launcher3" name="Launcher3" remote="PixelExperience" revision="oreo-mr1" />
+        <project path="packages/apps/Music" name="ViMusic" remote="eartinity" revision="master" />
+        <project path="packages/apps/Launcher3" name="Launcher3" remote="PixelExperience" revision="oreo-mr1" />
         
 </manifest>
