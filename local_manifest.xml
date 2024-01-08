@@ -13,8 +13,8 @@
        <remote name="ImSurajxD"
                 fetch="https://gitlab.com/ImSurajxD" />
 
-       <remote name="LineageOS"
-                fetch="https://github.com/LineageOS" />
+       <remote name="PixelExperience"
+                fetch="https://github.com/PixelExperience" />
     
 <!-- device trees -->
 
@@ -25,5 +25,6 @@
 
 <!-- additional apps -->
         <project path="platform/packages/apps/Music" name="ViMusic" remote="eartinity" revision="master" />
+        <project path="platform/packages/apps/Launcher3" name="Launcher3" remote="PixelExperience" revision="oreo-mr1" />
         
 </manifest>
