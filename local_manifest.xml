@@ -24,6 +24,6 @@
         <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="ImSurajxD" revision="master" />
 
 <!-- additional apps -->
-        <project path="platform/packages/apps/Music" name="ViMusic" remote="eartinity" revision="master" />
+        <project path="packages/apps/Music" name="ViMusic" remote="eartinity" revision="master" />
         
 </manifest>
